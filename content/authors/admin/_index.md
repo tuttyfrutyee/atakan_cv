@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.Sc. Student in Department of Electrical and Electronics Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
