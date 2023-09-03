@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Hasan Atakan Bedel
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Hasan Atakan
+last_name: Bedel
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,17 +18,17 @@ role: M.Sc. Student in Department of Electrical and Electronics Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bilkent University
+    url: https://ee.bilkent.edu.tr/tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-user"></i>
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Biomedical Image Analysis
+  - Computational Neuroscience
 
 # Education to show in About widget
 education:
@@ -36,21 +36,18 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc., Electrical and Electronics Engineering
+      institution: Bilkent University
+      year: 2021 - 2024
+    - course: B.Sc., Electrical and Electronics Engineering
+      institution: Middle East Technical University
+      year: 2016 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
