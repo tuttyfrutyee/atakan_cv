@@ -47,25 +47,16 @@ education:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AtakanBedel
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0ySlO-wAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/tuttyfrutyee
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -74,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-user"></i>
+I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-download"></i> Latest version of my curriculum vitae is available [here](/static/uploads).
 {style="text-align: justify;"}

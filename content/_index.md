@@ -12,8 +12,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -25,7 +26,23 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: conference_publications
+    content:
+      title: Conference Proceedings
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation      
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
