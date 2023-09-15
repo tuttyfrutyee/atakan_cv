@@ -33,7 +33,7 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
+  - Hasan Atakan Bedel
   - 开源
 
 categories:
