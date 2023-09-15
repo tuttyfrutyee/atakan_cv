@@ -27,7 +27,7 @@ bio: I am a Master’s student in the Electrical and Electronics Engineering dep
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Biomedical Image Analysis
+  - Medical Image Analysis
   - Computational Neuroscience
 
 # Education to show in About widget
@@ -45,6 +45,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:atakan.bedelee@gmail.com
+    label: Email me
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AtakanBedel
@@ -57,6 +61,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tuttyfrutyee
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hasan-atakan-bedel-06b675171/
+    label: Connect with me on LinkedIn    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
