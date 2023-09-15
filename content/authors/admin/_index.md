@@ -61,9 +61,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists? (true/false)          [here](uploads/Hasan_Atakan_Bedel_Resume.pdf).
 highlight_name: true
 ---
 
-I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-download"></i> Latest version of my curriculum vitae is available [here](uploads/Hasan_Atakan_Bedel_Resume.pdf).
+I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-download"></i> Latest version of my curriculum vitae is available <a href="uploads/Hasan_Atakan_Bedel_Resume.pdf" target="_blank">here</a>
+ 
 {style="text-align: justify;"}
