@@ -75,8 +75,8 @@ highlight_name: true
 
 I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). <i class="fas fa-download"></i> Latest version of my curriculum vitae is available <a href="uploads/Hasan_Atakan_Bedel_Resume.pdf" target="_blank">here</a>
 
-My passion lies in exploring the human brain using fMRI and electrode data. I'm committed to decoding its complexities through the lens of deep learning. By integrating cutting-edge AI techniques with neural data, I aim to bridge the divide between artificial intelligence and neuroscience, driving advancements in cognitive science.
+My primary interest lies in the domain of medical imaging, with a keen focus on harnessing the potential of deep learning techniques to revolutionize diagnostic and therapeutic methodologies. I am deeply committed to leveraging advanced AI algorithms to unlock novel insights from medical data, bridging the gap between cutting-edge technology and healthcare.
 
-Exciting Update: I am now actively seeking a PhD program that aligns with my deep interest in blending artificial intelligence and neuroscience. Eager to delve deeper into the mysteries of the brain!
+Exciting Update: I am now actively seeking a Ph.D. program that aligns with my research interests!
  
 {style="text-align: justify;"}
