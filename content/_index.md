@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Journal Publications
       filters:
         folders:
           - publication
