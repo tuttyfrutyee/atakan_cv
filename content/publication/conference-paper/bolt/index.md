@@ -5,7 +5,7 @@ title: 'BolT: Fused window transformers for fMRI time series analysis'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - __Hasan A. Bedel__
+  - "*Hasan A. Bedel"
   - Irmak Sıvgın
   - Onat Dalmaz
   - Salman UH Dar
@@ -46,3 +46,5 @@ image:
   caption: 'Image credit: [**Unsplash**](featured.jpg)'
   focal_point: ''
   preview_only: false
+
+---
