@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#posts'
+    url: '#publications'
     weight: 20
   - name: Conference Proceedings
     url: '#projects'
     weight: 30
   - name: Gallery
-    url: '#talks'
+    url: '#gallery'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
