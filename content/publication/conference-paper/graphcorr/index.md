@@ -9,9 +9,10 @@ authors:
   - admin
   - Tolga Çukur
 
-  author_notes:
-- "Equal contribution"
-- "Equal contribution"
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+
 
 date: '2023-01-01T00:00:00Z'
 doi: ''
