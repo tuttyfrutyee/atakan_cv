@@ -21,7 +21,18 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card     
+      view: card 
+  - block: collection
+    id: conf-publications
+    content:
+      title: Conference Proceedings
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: card       
   - block: markdown
     id: gallery
     content:
