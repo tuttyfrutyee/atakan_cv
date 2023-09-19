@@ -19,6 +19,8 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 7
+      archive: false        
     design:
       columns: '2'
       view: card 
@@ -30,7 +32,6 @@ sections:
         folders:
           - publication
         exclude_featured: true
-      count: 7
     design:
       columns: '2'
       view: card       
