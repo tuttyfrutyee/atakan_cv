@@ -40,7 +40,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="mylife" >}}
     design:
       columns: '1'
 ---
