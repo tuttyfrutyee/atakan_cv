@@ -19,8 +19,7 @@ sections:
         folders:
           - publication
         featured_only: true
-      archive:
-        enable: false        
+      count: 7      
     design:
       columns: '2'
       view: card 
