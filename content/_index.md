@@ -30,6 +30,8 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      archive:
+        enable: false
     design:
       columns: '2'
       view: card       
