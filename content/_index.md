@@ -32,6 +32,7 @@ sections:
         exclude_featured: true
       archive:
         enable: false
+      count: 0
     design:
       columns: '2'
       view: card       
