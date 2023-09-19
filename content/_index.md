@@ -30,9 +30,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-      archive:
-        enable: false
-      count: 0
+      count: 7
     design:
       columns: '2'
       view: card       
