@@ -23,7 +23,7 @@ sections:
       columns: '2'
       view: card 
   - block: collection
-    id: conf-publications
+    id: conf
     content:
       title: Conference Proceedings
       filters:
