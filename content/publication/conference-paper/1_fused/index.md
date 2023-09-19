@@ -14,9 +14,6 @@ doi: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: "Employing Transformer Encoders for Enhanced Functional Connectivity Mapping"
-
 abstract: Presented in IEEE 31st Signal Processing and Communications Applications Conference (SIU 2023)
 
 tags:
