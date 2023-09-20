@@ -1,8 +1,7 @@
 ---
-title: "Fused Window Attention for Sensitive fMRI Data Analysis"
+title: "Employing Transformer Encoders for Enhanced Functional Connectivity Mapping"
 authors:
 - admin
-- 
 - Tolga Çukur
 
 date: "2023-07-05T00:00:00Z"
@@ -17,7 +16,7 @@ publishDate: '2023-09-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-abstract: Presented in 31st annual meeting of International Society for Magnetic Resonance Imaging (ISMRM), Toronto, June 2023
+abstract: Presented in IEEE 31st Signal Processing and Communications Applications Conference (SIU 2023)
 
 tags:
 - Source Themes

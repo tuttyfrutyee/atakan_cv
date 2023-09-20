@@ -1,8 +1,12 @@
 ---
-title: "Fused Window Attention for Sensitive fMRI Data Analysis"
+title: "Adversarial Diffusion Models for Unsupervised Medical Image Synthesis"
 authors:
+- Onat Dalmaz
+- Muzaffer Özbey
 - admin
-- 
+- Salman UH Dar
+- Şaban Öztürk
+- Alper Güngör
 - Tolga Çukur
 
 date: "2023-07-05T00:00:00Z"
@@ -17,7 +21,7 @@ publishDate: '2023-09-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-abstract: Presented in 31st annual meeting of International Society for Magnetic Resonance Imaging (ISMRM), Toronto, June 2023
+abstract: Presented in NeurIPS Medical Imaging Meets, 2022
 
 tags:
 - Source Themes
