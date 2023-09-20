@@ -16,7 +16,7 @@ publishDate: '2023-09-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-abstract: Presented in IEEE 31st Signal Processing and Communications Applications Conference (SIU 2023)
+abstract: Presented in IEEE 31st Signal Processing and Communications Applications Conference (SIU), Istanbul, July 2023
 
 tags:
 - Source Themes
