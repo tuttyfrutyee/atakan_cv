@@ -1,7 +1,12 @@
 ---
 title: "Cycle-Consistent Adversarial Diffusion For Unsupervised Medical Image Translation"
 authors:
+- Onat Dalmaz
+- Muzaffer Özbey
 - admin
+- Salman UH Dar
+- Şaban Öztürk
+- Alper Güngör
 - Tolga Çukur
 
 date: "2023-07-05T00:00:00Z"

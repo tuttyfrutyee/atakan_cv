@@ -2,7 +2,9 @@
 title: "Fused Window Attention for Sensitive fMRI Data Analysis"
 authors:
 - admin
-- 
+- Irmak Sıvgın
+- Onat Dalmaz
+- Salman UH Dar
 - Tolga Çukur
 
 date: "2023-07-05T00:00:00Z"
