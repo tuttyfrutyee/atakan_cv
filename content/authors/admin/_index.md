@@ -49,11 +49,11 @@ social:
     icon_pack: fas
     link: mailto:atakan.bedelee@gmail.com
     label: Email me
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/AtakanBedel
-    label: Follow me on Twitter
-    display:
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/AtakanBedel
+  #   label: Follow me on Twitter
+  #   display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
