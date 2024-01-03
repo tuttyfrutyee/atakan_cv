@@ -75,7 +75,7 @@ highlight_name: true
 
 I am a Master’s student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at [Middle East Technical University](https://www.metu.edu.tr/). 
 
-My primary interest lies in the domain of medical imaging, with a keen focus on harnessing the potential of deep learning techniques to revolutionize diagnostic and therapeutic methodologies. I am deeply committed to leveraging advanced AI algorithms to unlock novel insights from medical data, bridging the gap between cutting-edge technology and healthcare.
+My primary interest lies in the domain of analysis of biomedical data, with a keen focus on harnessing the potential of deep learning techniques to revolutionize diagnostic and therapeutic methodologies. I am deeply committed to leveraging advanced AI algorithms to unlock novel insights from biomedical data, bridging the gap between cutting-edge technology and healthcare.
 
 <i class="fas fa-download"></i> Latest version of my curriculum vitae is available <a href="uploads/Hasan_Atakan_Bedel_Resume.pdf" target="_blank">here</a>
 
